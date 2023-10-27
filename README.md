@@ -48,4 +48,5 @@ comentario
 -->
 
 
+![Moto de ensueño!](https://github.com/VicentG3/markdown2/blob/main/imagenes/62d44e1cd9424633947699.jpg "Motaza")
 
