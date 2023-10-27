@@ -19,7 +19,7 @@
 Buscador secreto [Duck Duck Go](https://duckduckgo.com).  
 
 
-![Montañas!](https://phantom-expansion.unidadeditorial.es/0c295d530ce249b548440983088a2a53/crop/0x60/2047x1210/resize/1200/f/webp/assets/multimedia/imagenes/2023/01/07/16730474851918.jpg "San Juan Mountains")
+![](https://phantom-expansion.unidadeditorial.es/0c295d530ce249b548440983088a2a53/crop/0x60/2047x1210/resize/1200/f/webp/assets/multimedia/imagenes/2023/01/07/16730474851918.jpg)
 
 1. primero
 2. segundo
